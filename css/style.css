@@ -1,0 +1,246 @@
+body{
+  background-color: white;
+  color:#3c3c3b;
+  align-items: center;
+  margin: 0;
+  text-align: center;
+}
+
+
+
+h2{
+  color: #2a7886;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3{
+  color:#2a7886;
+  font-family: 'Montserrat', sans-serif;
+}
+
+p{
+  font-family: 'Merriweather', serif;
+}
+
+
+hr{
+  width:15%;
+  border-top: 5px dotted #ededed;
+  border-bottom: none;
+}
+
+#top-container{
+  background-color: #ededed;
+  margin-top: 0;
+  position: relative;
+  display: block;
+  bottom: 0px;
+  margin-bottom: 0px;
+  height: 750px;
+  padding-top: 30px;
+}
+
+
+
+#middle-container h2{
+  font-size: 70px;
+  padding-bottom: 20px
+  margin-bottom: 50px;
+}
+
+
+
+
+
+
+.avatar{
+  width:130px;
+  height:130px;
+  position:absolute;
+  left:20%;
+
+}
+
+.cloud-1 {
+  width: 100px;
+  height: 49px;
+  position:absolute;
+  top: 160px;
+  right: 50%;
+
+}
+
+
+.signature{
+  width:700px;
+  height:380px;
+  position: relative;
+  top: 145px;
+
+}
+
+
+.top-text p{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 30px;
+  color: #2a7886;
+  text-align: center;
+  font-weight: normal;
+  margin-top: 0;
+  margin-bottom: 0;
+  position: absolute;
+  top: 430px;
+  left: 50%;
+  margin-left: -7%;
+}
+
+
+.cloud-2{
+  width:260px;
+  height:130px;
+  position:absolute;
+  left: 15%;
+  top: 400px;
+}
+
+
+.cloud-3{
+  width:396px;
+  height:196px;
+  position:relative;
+  bottom: -80px;
+  left: 292px;
+}
+
+.my-skills hr{
+  width: 5%;
+}
+
+
+.my-skills img{
+  height:100px;
+  width:100px;
+}
+
+
+.my-skills h3{
+  font-size: 30px;
+  display: inline-block;
+}
+
+.my-skills p {
+  width: 650px;
+  height: 115px;
+  text-align: justify;
+  margin:20px auto 20px auto ;
+}
+
+
+.ai-icon{
+  position: relative;
+}
+
+.illustrator-text{
+  position:relative;
+}
+
+
+
+.my-wroks{
+  width: 850px;
+  height: 640px;
+  margin: 20px auto;
+}
+
+.my-wroks img{
+  height:200px;
+  width:200px;
+}
+
+
+.hire-me{
+
+
+}
+
+.hire-me img{
+  width: 200px;
+  padding: 20px 60px 80px 60px;
+}
+
+
+
+.contact-me-button{
+  height: 120px;
+}
+
+.myButton {
+	box-shadow: 0px 10px 14px -7px #276873;
+	background:linear-gradient(to bottom, #599bb3 5%, #408c99 100%);
+	background-color:#599bb3;
+	border-radius:15px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:20px;
+	font-weight:bold;
+	padding:20px 30px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #3d768a;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #408c99 5%, #599bb3 100%);
+	background-color:#408c99;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+
+#bottom-container{
+  background-color: #82c9c3;
+  height:200px;
+}
+
+.socials{
+  position: relative;
+  top:20px;
+      top: 75px;
+}
+
+.socials img{
+  height: 50px;
+  margin: 30px 30px 30px 30px;
+
+}
+
+
+
+.bottom-text p{
+  display: inline-block;
+  font-size: 20px;
+  position:absolute;
+  color:white;
+
+}
+
+.dribble {
+  left: 34%;
+}
+.behence{
+  left: 47%;
+}
+
+.hire-me-text{
+  right: 34%;
+}
+
+.copyright{
+  color:white;
+  position: relative;
+  top: 40px;
+
+}
+dsaads
